@@ -1,0 +1,13 @@
+# --- Core Computer Vision & AI ---
+ultralytics       # YOLOv11 Engine
+opencv-python     # Image processing
+
+# --- Export & Quantization ---
+tensorflow        # TFLite Export & Optimization
+onnx              # Intermediate format for export
+onnxslim          # Optimizing ONNX before TFLite conversion
+onnx2tf           # Direct conversion tool
+
+# --- Utilities ---
+pathlib           # Path management
+pyyaml            # Reading/Writing YAML files
